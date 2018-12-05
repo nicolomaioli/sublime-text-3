@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CSS3",
+		"Emmet",
+		"FileIcons",
+		"Git",
+		"GitGutter",
+		"Grails",
+		"Highlight Trailing Whitespace",
+		"IndentX",
+		"jQuery",
+		"Markdown Extended",
+		"Move By Paragraph",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-stylelint"
+	]
+}

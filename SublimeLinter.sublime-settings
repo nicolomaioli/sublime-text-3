@@ -1,0 +1,18 @@
+// SublimeLinter Settings - User
+{
+	"lint_mode": "load_save",
+	"paths": {
+		"linux": [
+			"~/.local/bin",
+			"~/.npm_modules/bin"
+		]
+	},
+	"linters": {
+		"SublimeLinter-flake8": {
+			"python": 3
+		},
+		"SublimeLinter-stylelint": {
+			"disable": true
+		}
+	}
+}
