@@ -1,10 +1,19 @@
 {
+	"added_words":
+	[
+		"Serializable",
+		"enum"
+	],
+	"auto_complete_commit_on_tab": false,
+	"auto_complete_cycle": true,
 	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"trim_trailing_white_space_on_save": true,
-	"auto_complete_commit_on_tab": false,
-	"auto_complete_cycle": true
+	"ignored_words":
+	[
+		"ontext"
+	],
+	"trim_trailing_white_space_on_save": true
 }
