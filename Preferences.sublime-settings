@@ -7,6 +7,7 @@
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": false,
 	"auto_complete_cycle": true,
+	"color_scheme": "Monokai.sublime-color-scheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Ubuntu Mono",
@@ -25,6 +26,7 @@
 	[
 		79
 	],
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
