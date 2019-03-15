@@ -25,5 +25,7 @@
 	],
     "highlight_modified_tabs": true,
 	"translate_tabs_to_spaces": true,
+    "draw_minimap_border": true,
+    "always_show_minimap_viewport": true,
 	"trim_trailing_white_space_on_save": true
 }
