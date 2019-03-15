@@ -8,7 +8,6 @@
 	"auto_complete_commit_on_tab": false,
 	"auto_complete_cycle": true,
 	"detect_indentation": false,
-	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Ubuntu Mono",
 	"font_size": 12,
