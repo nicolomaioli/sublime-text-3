@@ -13,6 +13,16 @@
 	"font_face": "Ubuntu Mono",
 	"font_size": 12,
 	"highlight_modified_tabs": true,
+	"folder_exclude_patterns":
+	[
+		"__pycache__",
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"venv",
+		"node_modules"
+	],
 	"hot_exit": false,
 	"ignored_packages":
 	[
@@ -22,10 +32,12 @@
 	[
 		"ontext"
 	],
+	"remember_open_files": false,
 	"rulers":
 	[
 		79
 	],
+	"tab_size": 4,
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true

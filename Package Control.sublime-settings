@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
 		"CSS3",
 		"Emmet",
 		"FileIcons",
@@ -12,12 +13,15 @@
 		"Grails",
 		"Highlight Trailing Whitespace",
 		"IndentX",
+		"Jinja2",
 		"jQuery",
 		"Markdown Extended",
 		"Move By Paragraph",
 		"Package Control",
+		"Sass",
 		"SublimeLinter",
 		"SublimeLinter-flake8",
+		"SublimeLinter-rubocop",
 		"SublimeLinter-stylelint"
 	]
 }
