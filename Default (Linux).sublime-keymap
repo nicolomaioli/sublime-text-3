@@ -9,6 +9,15 @@
     { "keys": ["ctrl+pagedown"], "command": "next_view_in_stack" },
     { "keys": ["ctrl+pageup"], "command": "prev_view_in_stack" },
 
+    // Add a semicolon to the end of the line and move to the next line
+    {
+        "keys": ["alt+;"],
+        "command": "run_macro_file",
+        "args": {
+            "file": "Packages/User/SemicolonEOL.sublime-macro"
+        }
+    },
+
 	// Use tab to cycle through completition
 	{
     "keys": ["tab"],
