@@ -23,6 +23,7 @@
 		"SublimeLinter",
 		"SublimeLinter-flake8",
 		"SublimeLinter-rubocop",
-		"SublimeLinter-stylelint"
+		"SublimeLinter-stylelint",
+		"TOML"
 	]
 }
