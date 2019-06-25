@@ -34,7 +34,7 @@ export WIN_HOME="${WIN_HOME%%[[:cntrl:]]}"
 Save it, `source ~/.bashrc` then clone the repo:
 
 ```bash
-git clone <REPO> $WIN_HOME/AppData/Roaming/Sublime\Text\ 3/Packages/User
+git clone <REPO> $WIN_HOME/AppData/Roaming/Sublime\ Text\ 3/Packages/User
 ```
 
 Add the following to `.bashrc` to open Sublime Text (or Sublime Merge) from WSL:
