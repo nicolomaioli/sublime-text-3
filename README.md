@@ -24,8 +24,8 @@ win2lin () {
   printf '%s\n' "${f//\\//}";
 }
 
-# Get %userprofile% from CMD, convert it to a linux path and clean up printf
-# This isn't a very clean solution, open to suggestions here
+# Get %userprofile% from Powershell, convert it to a linux path and clean up printf
+# Not the cleanest solution but it works well
 export WIN_HOME=`powershell.exe 'echo $env:userprofile'`
 export WIN_HOME=`win2lin $WIN_HOME`
 export WIN_HOME="${WIN_HOME%%[[:cntrl:]]}"
