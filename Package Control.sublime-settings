@@ -23,6 +23,7 @@
 		"Rust Enhanced",
 		"Sass",
 		"SublimeLinter",
+		"SublimeLinter-contrib-yamllint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-rubocop",
